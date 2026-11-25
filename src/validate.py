@@ -43,3 +43,5 @@ for name,passed in checks :
         
 if __name__ == "__main__" :
     print("Passed rubrics:",passed_t)
+    if len(passed_t)==13:
+        print(f"\n \t ALL CHECKPOINTS PASSED")
