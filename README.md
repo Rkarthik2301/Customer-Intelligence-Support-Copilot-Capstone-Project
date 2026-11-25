@@ -18,7 +18,6 @@ HOW TO REPRODUCE
 9. python src/triage.py
 10. python src/rag.py
 11. python src/run_agent_demo.py
-12. python src/check_layout.py    -> prints LAYOUT OK
 
 Run them in this order. Part B needs the clean data, Part C needs
 outputs/customer_segments.csv and Part D needs data/instamart.db.
